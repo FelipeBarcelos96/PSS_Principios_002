@@ -28,3 +28,4 @@ hs_err_pid*
 /PSS_Principios_002_ExemploDependencyInversionPrinciple/target/
 /PSS_Principios_ExemploSubstituicaoPorReuso/target/
 /PSS_Principios_ExemploLeiDeDemeter/target/
+/PSS_Principios_ExemploDontRepeatYourself/target/
