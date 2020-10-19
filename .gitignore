@@ -25,3 +25,4 @@ hs_err_pid*
 /PSS_Principios_ExemploOpenClosedPrinciple/target/
 /PSS_Principios_ExemploPrincipioSubstituicaoLiskov/target/
 /PSS_Pricipios_ExemploInterfaceSegregationPrinciple/target/
+/PSS_Principios_002_ExemploDependencyInversionPrinciple/target/
